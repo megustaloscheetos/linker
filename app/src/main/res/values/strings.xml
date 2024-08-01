@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Linker</string>
+    <string name="servicedesc">Linker Share Service</string>
+    <string name="aiddescription">General AID</string>
+    <string name="phone_tap_hint">Phone is Ready for Tap</string>
+    <string name="watch_tap_hint">Watch is Ready for Tap</string>
+    <string name="welcome_instructions">Welcome! To get started, first select a link or text, and then select this app using your phone\'s native share menu! Afterwards, tap any NFC-compatible device against the device you are using.</string>
+    <string name="wear_app_not_installed">Wear App Not Installed or Detected\nWatch Sharing Unavailable</string>
+    <string name="wear_app_installed">Wear App Detected\nWatch Sharing Available</string>
+    <string name="nfc">NFC</string>
+</resources>
