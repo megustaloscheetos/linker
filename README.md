@@ -14,9 +14,10 @@ When sharing links or text, simply select the app from the native Android share 
 
 ---
 
-<img src="https://github.com/user-attachments/assets/8959b71e-ce7e-42b4-b954-4b4088bfb39c" width=300 />
-<img src="https://github.com/user-attachments/assets/494fb1fd-11e6-4675-ab35-7bc8ffb5dd6e" width=300 align="right" />
-<img src="https://github.com/user-attachments/assets/81779cfd-ff04-439f-9adb-9a68941b21ac" width=300 align="right" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81779cfd-ff04-439f-9adb-9a68941b21ac" width=300 />
+  <img src="https://github.com/user-attachments/assets/494fb1fd-11e6-4675-ab35-7bc8ffb5dd6e" width=300 />
+</p>
 
 ## Installing
 Apks for both the mobile and Wear OS components are provided in the Releases tab. Installing the mobile component simply requires downloading the mobile apk on your device through a web browser and then installing it. However, installing the Wear OS component may be difficult as it requires that the component be installed through ADB debugging and tools.
